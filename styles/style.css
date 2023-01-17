@@ -101,7 +101,7 @@ main .forest {
     border: solid 1px black;
     background-color: white;
     height: fit-content;
-    padding: 30px;
+    padding: 18px;
     border-radius: 25px;
     font-family: 'Titillium Web', sans-serif;
     font-size: 2rem;
@@ -153,12 +153,12 @@ footer {
 }
 
 .friend {
-    background-color: skyblue;
-    border: solid 1px black;
+    background-color: rgb(181, 241, 255);
+    border: solid 2px white;
     margin: 5px;
     border-radius: 20px;
     height: 100px;
-    width: 120px;
+    width: 100px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -206,8 +206,8 @@ footer {
 }
 
 .mushroom {
-    width: 100px;
-    height: 100px;
+    width: 80px;
+    height: 80px;
     background-size: contain;
     background-repeat: no-repeat;
     background-image: url('../assets/porcini.png');
